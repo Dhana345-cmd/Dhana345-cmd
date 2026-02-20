@@ -127,7 +127,7 @@
 
 ## Connect with me:
 
-[Check my portfolio website](https://almasali.net "Almas Ali Portfolio") or check my other social media account here.
+[Check my portfolio website](https://almasali.net "Dhana Santini Portfolio") or check my other social media account here.
 
 <p align="left">
 <a href="https://dev.to/almaspr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="almaspr3" height="30" width="40" /></a>
