@@ -145,21 +145,4 @@
 ## ✍️ Need Inspiration?
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<hr>
-
-## Want to show your support?
-
-By supporting me you are supporting the hole open-source community.
-
-<p><a href="https://www.buymeacoffee.com/almaspr3"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="almaspr3" /></a>
-</p>
-<br>
-<br>
-<br>
-
-<p>
-Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars
-⭐</a>
-</p>
-
+    
