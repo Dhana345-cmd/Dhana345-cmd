@@ -1,17 +1,16 @@
-<h1 align="center">Hi there, I'm Senior Full Stack Engineeri! <img src="https://raw.githubusercontent.com/Almas-Ali/Almas-Ali/master/static/wave.gif"
+<h1 align="center">Hi there, I'm Senior Full Stack Engineeri! <img src="https://raw.githubusercontent.com/FBlinker/FBlinker/master/static/wave.gif"
     width="30px" height="30px"></h1>
-<!-- <h3 align="center">Passionate Software Engineer | Open Source Enthusiast</h3> -->
 
 <p align="center">
-<a href="https://github.com/Almas-Ali"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&center=true&width=435&lines=Passionate+Software+Engineer;Open+Source+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://github.com/FBlinker"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&center=true&width=435&lines=Passionate+Software+Engineer;Open+Source+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
 
-[![Hits](https://hits.sh/github.com/Almas-Ali/Almas-Ali.svg?extraCount=5000)](https://hits.sh/github.com/Almas-Ali/Almas-Ali/)
+[![Hits](https://hits.sh/github.com/FBlinker/FBlinker.svg?extraCount=5000)](https://hits.sh/github.com/FBlinker/FBlinker/)
 ![Total time coded since Oct 24 2022](https://wakatime.com/badge/user/168edf9f-71dc-49cc-bf77-592d9c9d4eed.svg)
-![Stars](https://img.shields.io/github/stars/Almas-Ali?label=Stars&style=social)
-![Followers](https://img.shields.io/github/followers/Almas-Ali?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/FBlinker?label=Stars&style=social)
+![Followers](https://img.shields.io/github/followers/FBlinker?label=Followers&style=social)
 
 </div>
 
